@@ -1,7 +1,31 @@
 With you partner search the following questions and create a presentation.
 What is SDLC?
-Kyley 
+SDLC stands for "Systems development life cycle". It is the way products are planned, created, tested, and deployed (usually in IT, and software development).
+
+
 What are the stages of SDLC? explain 
+Some common stages are...
+1. Planning
+2. Define Requirements
+3. Design & Prototyping 
+4. Software Development
+5. Testing
+6. Deployment
+7. Operations & Maintenence
+First you have to plan, set limits to, and design your product. Then you can make out a prototype and start with the testing. Then you put your product ou there and maintain it.
+
+
 Define five SDLC moldels (methodology).
+1. Agile: "Fast Failure" approach where they release a product for testing quickly and then work out the kinks and make big improvements.
+2. Lean: "One step of a time" aproach where you work on one part of the plan at a time.
+3. Waterfall: "Don't live in the past" approach where you finish one part of the process and move on to the next without going back (older method).
+4. Iterative: "Rinse, lather, repeat" approach where you repeat many steps until you get what you like.
+5. Spiral: "Ascending Spiral" approach where it's reptition mixed with doing all 4 processes over and over until complete.
+
+
 Take one of the SDLC models and explain the implementation process.
+The way to implement lean is to you start a particular stage of SDLC and stick to it until you are done. Don't move on to the next step until you're done.
+
+
 Describe how to apply SDLC model in the version control App.
+Not yet
